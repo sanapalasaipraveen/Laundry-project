@@ -1,0 +1,405 @@
+.each-order{
+    width:100%;
+    height:50px;
+    display:flex;
+}
+
+.rcorderid{
+    width:51px;
+    height: 100%;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.rcorderdateandtime{
+    width: 111px;
+    height:100%;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.rcstorelocation{
+    width: 48px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.rccity{
+    width: 57px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;   
+}
+
+.rcstorephone{
+    width: 108px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.rctotalitems{
+    width: 10px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.rctotalprice{
+    width: 38px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;  
+}
+
+.rcstatus{
+    width: 100px;
+    height: 17px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.rcforcancel{
+    cursor: pointer;
+    color: red;
+    width: 73px;
+    height: 17px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 12px/48px Open Sans;
+}
+
+.rcview{
+    padding: 25px;   /*take care of it*/
+    width: 17px;
+    height: 17px;
+  
+    text-align: left;
+    font: normal normal 600 12px/48px Open Sans;
+}
+
+.proceed-btn{
+    cursor: pointer;
+    position: absolute;
+    top: 144px;
+    left: 154px;
+    width: 107px;
+    height: 32px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.suretocancel{
+    position: absolute;
+    top: 75px;
+    left: 99px;
+    width: 250px;
+    height: 38px;
+    text-align: center;
+    letter-spacing: 0.25px;
+    opacity: 1;
+}
+
+.alert-image{
+    position: absolute;
+    top: 98px;
+    left: 37px;
+    width: 34px;
+    height: 30px;
+    background: #F40808 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.alertheader{
+    position: absolute;
+    top: 12px;
+    left: 22px;
+    width: 34px;
+    height: 19px;
+    text-align: left;
+    font: normal normal 600 14px Open Sans;
+    letter-spacing: 0.34px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.purpleheader{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 415px;
+    height: 43px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    border-radius: 2px 2px 1px 1px;
+    opacity: 1;
+}
+
+.bluehead{
+    width: 926px;
+    background-color: #5861AE;
+    height: 70px;
+}
+
+.summaryheader{
+    margin: 0;
+    width: 926px;
+    height: 70px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.summarytext{        
+    margin-left: 20px;
+    padding-top: 15px;
+    width: 102px;
+    height: 30px;
+    text-align: left;
+    font: normal normal 600 22px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.lightbluehead{
+    width: 926px;
+    height: 98px;
+    background-color: #F4F9FF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 10000;
+}
+
+.newstore{
+    font: normal normal 600 16px/22px Open Sans;
+
+}
+.newkoti{
+    padding-top: 5px;
+    font: normal normal normal 16px/22px Open Sans;
+}
+
+
+.lightblueheader{    
+    top: 72px;
+    left: 0px;
+    width: 926px;
+    height: 98px;
+    background: #F4F9FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.storelocation{
+    
+    top: 91px;
+    left: 43px;
+    width: 116px;
+    height: 22px;
+    text-align: left;
+    font: normal normal 600 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.koti{
+    
+    top: 126px;
+    left: 43px;
+    width: 66px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.storeaddress{
+    
+    top: 93px;
+    left: 300px;
+    width: 121px;
+    height: 22px;
+    text-align: left;
+    font: normal normal 600 16px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.landmark{
+    
+    top: 126px;
+    left: 300px;
+    width: 232px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.phone{
+    
+    top: 92px;
+    left: 600px;
+    width: 51px;
+    height: 22px;
+    text-align: left;
+    font: normal normal 600 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.number{
+    
+    top: 126px;
+    left: 600px;
+    width: 123px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.orderdetails{
+    width: 91px;
+    height: 19px;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: left;
+    font: normal normal 600 14px/19px Open Sans;
+    letter-spacing: 0.42px;
+    color: #3B3737;
+    opacity: 1;
+}
+
+.dynamicorders{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0.43px;
+    color: #1B2734;
+    opacity: 1;
+}
+.hline{
+    opacity: 0.2;
+}
+
+.sub-total{
+    margin-left: 680px;
+    width: 124px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.pickup-charges{
+    margin-left: 650px;
+    
+    width: 124px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+}
+
+.total-cost{
+    margin-left: 80px;
+    margin-top: 30px;
+    width: 845px;
+    height: 49px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.innertotalcost{
+    padding-top: 10px;
+    margin-left: 630px;
+    width: 52px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 18px/24px Open Sans;
+    letter-spacing: 0.43px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.address-bottom{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 57px;
+    height: 19px;
+    text-align: left;
+    font: normal normal 600 14px/19px Open Sans;
+    letter-spacing: 0.42px;
+    color: #3B3737;
+    opacity: 1;
+}
+
+.outer-add-box{
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 236px;
+    height: 85px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+        
+}
+
+.home-in-address{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 54px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 18px/24px Open Sans;
+    letter-spacing: 0.18px;
+    color: #3E3F40;
+    opacity: 1;
+}
+
+.street-in-address{
+    margin-top: 3px;
+    margin-left: 5px;
+    width: 198px;
+height: 44px;
+text-align: left;
+font: normal normal normal 16px/22px Open Sans;
+letter-spacing: 0.16px;
+color: #3E3F40;
+opacity: 1;
+}
+
+.cancel-btn-active{
+    cursor: pointer;
+    margin-left: 700px;
+    margin-top: 10px;
+    width: 150px;
+    height: 42px;
+    background: #F41313 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    font: normal normal bold 16px/22px Open Sans;
+letter-spacing: 0.16px;
+color: #FFFFFF;
+}

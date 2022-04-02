@@ -1,0 +1,59 @@
+.footercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 250px;
+    padding-top: 20px;
+}
+.aboutus{
+    font: normal normal medium 22px/24px Avenir;
+    letter-spacing: 0.18px;
+    color: #182838;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.aboutdesc{
+    text-align: left;
+    font: normal normal normal 15px/20px Avenir;
+    letter-spacing: 0.6px;
+    color: #3D3D43;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.t-one{
+    font: normal normal medium 16px/24px Avenir;
+    letter-spacing: 0.16px;
+    color: #182838;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.t-two, .lt-three{
+    text-align: left;
+    font: normal normal normal 14px/24px Avenir;
+    letter-spacing: 0.14px;
+    color: #182838;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.s-media{
+    font: normal normal medium 18px/24px Avenir;
+    letter-spacing: 0.18px;
+    color: #182838;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.copyright{
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color:#182838;
+}
+.copyright1{
+    padding-top: 10px;
+}

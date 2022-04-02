@@ -1,0 +1,361 @@
+.pastorder-parent{
+    height: 100%;
+    width: 100%;
+}
+
+.orders-search{
+    margin-top: 25px;
+    height: 24.8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.orders{
+    position: absolute;
+    top: 100px;
+    left: 106px;
+    width: 179px;
+    height: 25px;
+    text-align: left;
+    font: normal normal 600 18px/48px Open Sans;
+    letter-spacing: 0px;
+    color: #1E2022;
+    text-transform: capitalize;
+    opacity: 1;
+    z-index: 100;
+}
+
+.create{
+    position: absolute;
+    top: 100px;
+    left: 1091px;
+    width: 44px;
+    height: 19px;
+    text-align: left;
+    font: normal normal 600 14px Open Sans;
+    letter-spacing: 0px;
+    color: #5861AE;
+    opacity: 1;
+}
+
+.search{
+    position: absolute;
+    background: transparent url('../images/search.png') 0% 0% no-repeat padding-box;
+    border-bottom: #383737;
+    top: 95px;
+    left: 1192px;
+    width: 200px;
+    height: 21px;
+    opacity: 1;
+}
+
+.main-header{
+    position: absolute;
+    top: 172px;
+    left: 99px;
+    width: 1350px;
+    height: 35px;
+    background: #383737 0% 0% no-repeat padding-box;
+    border-radius: 3px 3px 0px 0px;
+    opacity: 1;
+}
+
+.order-id{
+    position: absolute;
+    top: 180px;
+left: 114px;
+width: 48px;
+height: 17px;
+text-align: left;
+font: normal normal 600 12px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.orderdateandtime{
+    position: absolute;
+    top: 181px;
+left: 212px;
+width: 108px;
+height: 17px;
+text-align: left;
+font: normal normal 600 12px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.storelocationclass{
+    position: absolute;
+    top: 181px;
+    left: 396px;
+    width: 83px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+
+.city{
+    position: absolute;
+    top: 181px;
+    left: 529px;
+    width: 22px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.storephone{
+    position: absolute;
+    top: 181px;
+left: 667px;
+width: 70px;
+height: 17px;
+text-align: left;
+font: normal normal 600 12px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.totalitems{
+    position: absolute;
+    top: 181px;
+    left: 836px;
+    width: 64px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+.price{
+    position: absolute;
+    top: 181px;
+left: 966px;
+width: 29px;
+height: 17px;
+text-align: left;
+font: normal normal 600 12px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.status{
+    position: absolute;
+    top: 181px;
+left: 1092px;
+width: 36px;
+height: 17px;
+text-align: left;
+font: normal normal 600 12px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.forcancel{
+    width: 60px;
+    height: 17px;
+    text-align: left;
+    font: normal normal normal 12px/48px Open Sans;
+    letter-spacing: 0px;
+    color: #EB1717;
+    opacity: 1;
+}
+
+.view{
+    position: absolute;
+    top: 182px;
+    left: 1322px;
+    width: 27px;
+    height: 17px;
+    text-align: left;
+    font: normal normal 600 12px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-left: 40px;
+    opacity: 1;
+}
+
+.title-laundry-bar{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 48px #0000000F;
+    opacity: 1;
+}
+
+.laundry{
+    position: absolute;
+    top: 27px;
+    left: 45px;
+    width: 108px;
+    height: 27px;
+    text-align: left;
+    font: normal normal 900 20px/27px Avenir;
+    letter-spacing: 1.8px;
+    color: #5861AE;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.pricing{
+    position: absolute;
+    top: 34px;
+    left: 1035px;
+    width: 48px;
+    height: 19px;
+    text-align: center;
+    font: normal normal normal 14px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.career{
+    position: absolute;
+    top: 34px;
+    left: 1150px;
+    width: 46px;
+    height: 19px;
+    text-align: center;
+    font: normal normal normal 14px/19px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.lastnav{
+    position: absolute;
+    top: 0px;
+    left: 1227px;
+    width: 214px;
+    height: 80px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.usernameimg{
+    position: absolute;
+    background: transparent;
+    top: 19px;
+    left: 1249px;
+    width: 43px;
+    height: 43px;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    
+}
+
+.usernameonly{
+    position: absolute;
+    top: 29px;
+    left: 1307px;
+    width: 96px;
+    height: 22px;
+    text-align: center;
+    font: normal normal medium 16px/22px Avenir;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.sidenavbar{
+    position: absolute;
+    top: -1.5px;
+    left: 0px;
+    width: 57px;
+    height: 933px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    opacity: 1;
+    z-index: -1;
+}
+
+.createbox{
+    position: absolute;
+    top: 95px;
+    left: 1059px;
+    width: 107px;
+    height: 32px;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.mapdiv{
+    position: absolute;
+    top: 230px;
+    left: 114px;
+
+}
+
+.homesidebtn{
+    position: absolute;
+    top: 119px;
+    left: 18px;
+    width: 22px;
+    height: 22px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.morebtn{
+    position: absolute;
+    top: 183px;
+    left: 18px;
+    width: 22px;
+    height: 22px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.listbtn{
+    position: absolute;
+    top: 247px;
+    left: 18px;
+    width: 25px;
+    height: 18px;
+    background: transparent;
+    opacity: 1;
+    background-color: white;
+}
+
+.pastorderfooter{
+    position: fixed;
+    bottom: 0;
+    width: 1520px;
+    height: 50px;
+    margin-top: 800px;
+    background: #182838 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.footer-content{
+    text-align: center;
+    padding-top:10px;
+    font: normal normal normal 12px/24px Avenir;
+    color: #FFFFFF;
+}
+.view1,.view2{
+height:35px;
+width:40px;
+}

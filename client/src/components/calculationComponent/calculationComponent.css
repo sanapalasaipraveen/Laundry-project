@@ -1,0 +1,30 @@
+.newwinnerchild{
+    display: flex;
+  }
+  
+  .newtypes{
+      padding-left: 10px;
+      width: 55px;
+      height: 24px;
+      text-align: left;
+      font: normal normal normal 18px/24px Open Sans;
+      letter-spacing: 0.43px;
+      color: #1B2734;
+      opacity: 1;
+      margin-left: 30px;
+  }
+  
+  .modes{
+      width: 119px;
+      height: 22px;
+      text-align: left;
+      font: italic normal normal 16px/22px Open Sans;
+      letter-spacing: 0.38px;
+      color: #1B2734;
+      opacity: 1;
+  }
+  
+  .hline{
+      opacity: 0.3;
+  }
+  

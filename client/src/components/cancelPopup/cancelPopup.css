@@ -1,0 +1,32 @@
+/* Popup style */
+
+ 
+.box {
+  position: fixed;
+  top: 315px;
+  left: 517px;
+  width: 415px;
+  height: 210px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  z-index: 1;
+}
+ 
+.close-icon {
+  position: absolute;
+  cursor: default;
+  top: 11px;
+  left: 381px;
+  width: 14px;
+  height: 14px;
+  color: white;
+  opacity: 1;
+  z-index: 1;
+}
+
+
+
+.cancel-btn{
+  margin-left:800px;
+}
